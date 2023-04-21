@@ -1,6 +1,8 @@
 # Inspecting power systems
 
-> **Dataset:** This project uses the [PLD-UAV](https://github.com/SnorkerHeng/PLD-UAV) dataset by [SnorkerHeng](https://github.com/SnorkerHeng) from GitHub.
+Deep learning engineering project.
+
+**Goal:** Detect powerlines, masts, transformers and top-covers from drone images.
 
 ## Project File Structure
 
@@ -27,6 +29,14 @@ course-project/
 ┗ requirements.txt
 ```
 
-## Notebooks
+## Links
 
 > **Notebooks:** [./notebooks](./notebooks/)
+
+> **Reports:** [./reports](./reports/)
+
+> **Rawdata.** [GitHub Repo](https://github.com/Snadderbyte/powergrid)
+
+## Submisson
+
+I am submitting this on friday however i will not be able to complete the project before the deadline and will therefore be working on this over the weekend. Final commit will probably be on Monday (24.04.23).
