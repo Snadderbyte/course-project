@@ -4,6 +4,8 @@ Deep learning engineering project.
 
 **Goal:** Detect powerlines, masts, transformers and top-covers from drone images.
 
+I will be using a ensemble of different models to achive this. Atleast one model for each object.
+
 ## Project File Structure
 
 ```ASCII
@@ -35,7 +37,7 @@ course-project/
 
 > **Reports:** [./reports](./reports/)
 
-> **Rawdata.** [GitHub Repo](https://github.com/Snadderbyte/powergrid)
+> **Rawdata:** [GitHub Repo](https://github.com/Snadderbyte/powergrid)
 
 ## Submisson
 
